@@ -6,9 +6,9 @@ Route1Mons:
 	db 3,RATTATA
 	db 2,PIDGEY
 	db 3,PIDGEY
-	db 5,PIDGEY
-	db 4,RATTATA
-	db 6,PIDGEY
-	db 7,PIDGEY
+	db 5,MEW
+	db 5,STARYU
+	db 5,GROWLITHE
+	db 5,SNORLAX
 	db $00
 

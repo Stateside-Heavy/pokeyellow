@@ -1,5 +1,5 @@
 _OakSpeechText1::
-	text "Hello there!"
+	text "What up punk?"
 	line "Welcome to the"
 	cont "world of #MON!"
 
@@ -18,7 +18,7 @@ _OakSpeechText2B::
 	text $51,"For some people,"
 	line "#MON are"
 	cont "pets. Others use"
-	cont "them for fights."
+	cont "them for battles."
 
 	para "Myself..."
 

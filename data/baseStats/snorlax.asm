@@ -6,7 +6,7 @@ db 30 ; base speed
 db 65 ; base special
 db NORMAL ; species type 1
 db NORMAL ; species type 2
-db 25 ; catch rate
+db 255 ; catch rate
 db 154 ; base exp yield
 INCBIN "pic/ymon/snorlax.pic",0,1 ; 77, sprite dimensions
 dw SnorlaxPicFront
@@ -16,7 +16,7 @@ db HEADBUTT
 db AMNESIA
 db REST
 db 0
-db 5 ; growth rate
+db 0 ; growth rate
 ; learnset
 	tmlearn 1,5,6,8
 	tmlearn 9,10,11,12,13,14,15,16

@@ -6,17 +6,17 @@ db 85 ; base speed
 db 70 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
-db 225 ; catch rate
+db 255 ; catch rate
 db 106 ; base exp yield
 INCBIN "pic/ymon/staryu.pic",0,1 ; 66, sprite dimensions
 dw StaryuPicFront
 dw StaryuPicBack
 ; attacks known at lvl 0
-db TACKLE
+db BUBBLE
 db 0
 db 0
 db 0
-db 5 ; growth rate
+db 0 ; growth rate
 ; learnset
 	tmlearn 6
 	tmlearn 9,10,11,12,13,14
