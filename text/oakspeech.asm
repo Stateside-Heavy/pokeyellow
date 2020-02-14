@@ -1,16 +1,16 @@
 _OakSpeechText1::
 	text "What up punk?"
 	line "Welcome to the"
-	cont "world of #MON!"
+	cont "THUNDERDOME!"
 
 	para "My name is OAK!"
 	line "People call me"
-	cont "the #MON PROF!"
+	cont "the #MON NERD!"
 	prompt
 
 _OakSpeechText2A::
 	text "This world is"
-	line "inhabited by"
+	line "overrun by"
 	cont "creatures called"
 	cont "#MON!@@"
 
@@ -22,22 +22,23 @@ _OakSpeechText2B::
 
 	para "Myself..."
 
-	para "I study #MON"
+	para "I murder #MON"
 	line "as a profession."
+	cont "and so will you."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
+	text "But first, what is"
 	line "your name?"
 	prompt
 
 _IntroduceRivalText::
 	text "This is my grand-"
 	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	cont "a smug loser since"
+	cont "he was a baby."
 
-	para "...Erm, what is"
+	para "...I'm old, what is"
 	line "his name again?"
 	prompt
 
@@ -48,8 +49,8 @@ _OakSpeechText3::
 	line "#MON legend is"
 	cont "about to unfold!"
 
-	para "A world of dreams"
-	line "and adventures"
+	para "A world of death"
+	line "and blood"
 	cont "with #MON"
-	cont "awaits! Let's go!"
+	cont "awaits! Let's get it!"
 	done

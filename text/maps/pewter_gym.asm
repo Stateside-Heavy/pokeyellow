@@ -13,8 +13,9 @@ _PewterGymText_5c49e::
 
 	para "Do you still want"
 	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	cont "...Dang it! Please"
+	cont "spare the life"
+	cont "of my #MON!"
 	done
 
 _PewterGymText_5c4a3::
@@ -23,7 +24,7 @@ _PewterGymText_5c4a3::
 	cont "in the world!"
 
 	para "Some raise #MON"
-	line "for fights. Some"
+	line "for battles. Some"
 	cont "see them as pets."
 
 	para "I'm in training to"
@@ -76,11 +77,12 @@ _TM34NoRoomText::
 	done
 
 _PewterGymText_5c4bc::
-	text "I took"
-	line "you for granted."
+	text "You murdered"
+	line "my #MON..."
 
 	para "As proof of your"
-	line "victory, here's"
+	line "...victory, here's"
+	cont "...sob..."
 	cont "the BOULDERBADGE!"
 
 	para $52, " received"
@@ -95,10 +97,18 @@ _PewterGymText_5c4c1::
 	para "Its bearer's"
 	line "#MON become"
 	cont "more powerful!"
+	cont "Not that you"
+	cont "need it, you"
+	cont "southern demon."
 
 	para "The technique"
 	line "FLASH can now be"
 	cont "used anytime!"
+	cont "...but don't use"
+	cont "it on people."
+	cont "Lots of people"
+	cont "carry weapons"
+	cont "these days."
 	prompt
 
 _PewterGymBattleText1::
@@ -116,12 +126,16 @@ _PewterGymEndBattleText1::
 	para "Light years isn't"
 	line "time! It measures"
 	cont "distance!"
+	cont "I'm not a NERD..."
 	prompt
 
 _PewterGymAfterBattleText1::
 	text "You're pretty hot,"
 	line "but not as hot"
 	cont "as BROCK!"
+	cont "...I'm being held here"
+	cont "against my will."
+	cont "Please help me."
 	done
 
 _PewterGymText_5c515::

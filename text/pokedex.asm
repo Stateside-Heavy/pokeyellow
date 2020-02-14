@@ -239,13 +239,13 @@ _ArbokDexEntry::
 	dex
 
 _PikachuDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "It died a long"
+	next "time ago and now"
+	next "seeks its revenge."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "legend tells that"
+	next "touching this #MON will"
+	next "engender unending nightmares"
 	dex
 
 _RaichuDexEntry::
