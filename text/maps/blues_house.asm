@@ -30,9 +30,10 @@ _DaisyUseMapText::
 
 _BluesHouseText2::
 	text "Spending time"
-	line "with your #MON"
-	cont "makes them more"
-	cont "friendly to you."
+	line "with you makes"
+	cont "me so happy,"
+	cont "secret boyfriend."
+	cont "Tee-hee!"
 	done
 
 _BluesHouseText3::
