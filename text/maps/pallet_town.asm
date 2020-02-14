@@ -6,8 +6,9 @@ _OakWalksUpText::
 	text "OAK: That was"
 	line "close!"
 
-	para "Wild #MON live"
-	line "in tall grass!"
+	para "Wild #MON will"
+	line "try to eat you"
+	cont "out there!"
 	done
 
 _OakWhewText::
@@ -21,11 +22,11 @@ _OakGrassText::
 
 	para "You need your own"
 	line "#MON for your"
-	cont "protection."
+	cont "hunting spree."
 	cont "I know!"
 
 	para "Here, come with"
-	line "me!"
+	line "me, little boy!"
 	done
 
 _PalletTownText2::
@@ -34,12 +35,15 @@ _PalletTownText2::
 
 	para "When they get"
 	line "strong, they can"
-	cont "protect me!"
+	cont "protect me"
+	cont "from bad dreams,"
+	cont "from... "
+	cont "DARKRAI..."
 	done
 
 _PalletTownText3::
 	text "Technology is"
-	line "incredible!"
+	line "incredible?"
 
 	para "You can now store"
 	line "and recall items"
@@ -55,7 +59,8 @@ _PalletTownText4::
 _PalletTownText5::
 	text "PALLET TOWN"
 	line "Shades of your"
-	cont "journey await!"
+	cont "journey will bring"
+	cont "peace to the world of #MON!"
 	done
 
 _PalletTownText6::
